@@ -1,0 +1,3 @@
+[submodule "CNN_Inference_Edge-AI_with_CLA"]
+	path = CNN_Inference_Edge-AI_with_CLA
+	url = https://github.com/CanberKaplan/CNN_Inference_Edge-AI_with_CLA.git
